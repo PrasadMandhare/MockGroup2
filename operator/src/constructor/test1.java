@@ -7,7 +7,7 @@ public class test1 {
 		test b = new test();
 		b.addition();
 		
-		test b1 = new test(11,18,29);
+		test b1 = new test(11,18,50);
 		b1.addition();
 	}
 
